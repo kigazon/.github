@@ -8,7 +8,7 @@ We take grown JavaScript and TypeScript systems and make them ship fast again.
 - **AI integration:** coding agents and LLM features that stay under your control
 
 Fixed-fee entry points:
-[Codebase Decision](https://kigazon.com/audit.html) (3 days, EUR 2,500) · [Software-Fahrplan](https://kigazon.com/software-fahrplan.html) (EUR 1,490)
+[Codebase Decision](https://kigazon.com/audit.html) (3 days) · [Software-Fahrplan](https://kigazon.com/software-fahrplan.html)
 
 Our own tools for working with coding agents live on [@josefheld](https://github.com/josefheld):
 [MAICA](https://kigazon.com/maica.html) · [DevReceipt](https://kigazon.com/devreceipt.html) · [claude-plugins](https://github.com/josefheld/claude-plugins)
