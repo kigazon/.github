@@ -11,6 +11,6 @@ Fixed-fee entry points:
 [Codebase Decision](https://kigazon.com/audit.html) (3 days, EUR 2,500) · [Software-Fahrplan](https://kigazon.com/software-fahrplan.html) (EUR 1,490)
 
 Our own tools for working with coding agents live on [@josefheld](https://github.com/josefheld):
-[MAICA](https://kigazon.com/maica.html) · [claude-plugins](https://github.com/josefheld/claude-plugins)
+[MAICA](https://kigazon.com/maica.html) · [DevReceipt](https://kigazon.com/devreceipt.html) · [claude-plugins](https://github.com/josefheld/claude-plugins)
 
 [kigazon.com](https://kigazon.com) · [Clutch](https://clutch.co/profile/kigazon-enterprises-gmbh) · [Book a call](https://cal.eu/josefheld/consultation30min)
