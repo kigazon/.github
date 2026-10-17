@@ -7,7 +7,10 @@ We take grown JavaScript and TypeScript systems and make them ship fast again.
 - **Architecture and interim CTO:** when a codebase or a team has outgrown its structure
 - **AI integration:** coding agents and LLM features that stay under your control
 
+Fixed-fee entry points:
+[Codebase Decision](https://kigazon.com/audit.html) (3 days, EUR 2,500) · [Software-Fahrplan](https://kigazon.com/software-fahrplan.html) (EUR 1,490)
+
 Our own tools for working with coding agents live on [@josefheld](https://github.com/josefheld):
-[MAICA](https://kigazon.com/maica.html) · [DevReceipt](https://kigazon.com/devreceipt.html) · [claude-plugins](https://github.com/josefheld/claude-plugins)
+[MAICA](https://kigazon.com/maica.html) · [claude-plugins](https://github.com/josefheld/claude-plugins)
 
 [kigazon.com](https://kigazon.com) · [Clutch](https://clutch.co/profile/kigazon-enterprises-gmbh) · [Book a call](https://cal.eu/josefheld/consultation30min)
